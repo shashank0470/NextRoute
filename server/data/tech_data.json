@@ -1,0 +1,394 @@
+[
+{
+"name": "HTML",
+"category": "frontend",
+"difficulty": 2,
+"estimatedHours": 20,
+"description": "The standard markup language for web pages",
+"topics": [
+    {
+    "name": "Basic Structure",
+    "estimatedHours": 2,
+    "description": "Understanding HTML document structure and elements"
+    },
+    {
+    "name": "Text Formatting",
+    "estimatedHours": 3,
+    "description": "Working with headings, paragraphs, lists, and text formatting"
+    },
+    {
+    "name": "Links and Images",
+    "estimatedHours": 3,
+    "description": "Creating hyperlinks and adding images"
+    },
+    {
+    "name": "Forms",
+    "estimatedHours": 4,
+    "description": "Building forms for user input"
+    },
+    {
+    "name": "Tables",
+    "estimatedHours": 2,
+    "description": "Creating and styling tables"
+    },
+    {
+    "name": "Semantic HTML",
+    "estimatedHours": 3,
+    "description": "Using semantic elements for better structure"
+    },
+    {
+    "name": "HTML5 Features",
+    "estimatedHours": 3,
+    "description": "New features in HTML5"
+    }
+]
+},
+{
+"name": "CSS",
+"category": "frontend",
+"difficulty": 3,
+"estimatedHours": 30,
+"description": "Styling language for web pages",
+"topics": [
+    {
+    "name": "Selectors",
+    "estimatedHours": 4,
+    "description": "Using CSS selectors to target HTML elements"
+    },
+    {
+    "name": "Box Model",
+    "estimatedHours": 3,
+    "description": "Understanding the CSS box model"
+    },
+    {
+    "name": "Layout",
+    "estimatedHours": 6,
+    "description": "Creating layouts with CSS"
+    },
+    {
+    "name": "Responsive Design",
+    "estimatedHours": 6,
+    "description": "Making websites responsive for different devices"
+    },
+    {
+    "name": "Flexbox",
+    "estimatedHours": 5,
+    "description": "Using Flexbox for flexible layouts"
+    },
+    {
+    "name": "CSS Grid",
+    "estimatedHours": 5,
+    "description": "Creating grid layouts with CSS Grid"
+    },
+    {
+    "name": "Animations",
+    "estimatedHours": 4,
+    "description": "Adding animations and transitions"
+    }
+]
+},
+{
+"name": "JavaScript",
+"category": "frontend",
+"difficulty": 5,
+"estimatedHours": 60,
+"description": "Programming language for the web",
+"topics": [
+    {
+    "name": "Basics",
+    "estimatedHours": 8,
+    "description": "Variables, data types, operators"
+    },
+    {
+    "name": "Control Flow",
+    "estimatedHours": 6,
+    "description": "Conditionals, loops, and error handling"
+    },
+    {
+    "name": "Functions",
+    "estimatedHours": 8,
+    "description": "Function declarations, expressions, and arrow functions"
+    },
+    {
+    "name": "Objects and Arrays",
+    "estimatedHours": 8,
+    "description": "Working with objects and arrays"
+    },
+    {
+    "name": "DOM Manipulation",
+    "estimatedHours": 10,
+    "description": "Interacting with the Document Object Model"
+    },
+    {
+    "name": "Events",
+    "estimatedHours": 6,
+    "description": "Handling user events"
+    },
+    {
+    "name": "Fetch API",
+    "estimatedHours": 7,
+    "description": "Making HTTP requests"
+    },
+    {
+    "name": "ES6+ Features",
+    "estimatedHours": 7,
+    "description": "Modern JavaScript features"
+    }
+]
+},
+{
+"name": "React",
+"category": "frontend",
+"difficulty": 6,
+"estimatedHours": 70,
+"description": "JavaScript library for building user interfaces",
+"topics": [
+    {
+    "name": "JSX",
+    "estimatedHours": 5,
+    "description": "Understanding JSX syntax"
+    },
+    {
+    "name": "Components",
+    "estimatedHours": 8,
+    "description": "Creating and using React components"
+    },
+    {
+    "name": "Props",
+    "estimatedHours": 6,
+    "description": "Passing data between components"
+    },
+    {
+    "name": "State",
+    "estimatedHours": 8,
+    "description": "Managing component state"
+    },
+    {
+    "name": "Lifecycle Methods",
+    "estimatedHours": 7,
+    "description": "Component lifecycle hooks"
+    },
+    {
+    "name": "Hooks",
+    "estimatedHours": 10,
+    "description": "Using React Hooks like useState and useEffect"
+    },
+    {
+    "name": "Context API",
+    "estimatedHours": 7,
+    "description": "Managing global state with Context"
+    },
+    {
+    "name": "Routing",
+    "estimatedHours": 6,
+    "description": "Client-side routing with React Router"
+    },
+    {
+    "name": "Forms",
+    "estimatedHours": 7,
+    "description": "Handling forms in React"
+    },
+    {
+    "name": "Testing",
+    "estimatedHours": 6,
+    "description": "Testing React components"
+    }
+]
+},
+{
+"name": "Node.js",
+"category": "backend",
+"difficulty": 6,
+"estimatedHours": 60,
+"description": "JavaScript runtime for server-side development",
+"topics": [
+    {
+    "name": "Node Basics",
+    "estimatedHours": 6,
+    "description": "Understanding Node.js basics"
+    },
+    {
+    "name": "Modules",
+    "estimatedHours": 5,
+    "description": "Using and creating Node.js modules"
+    },
+    {
+    "name": "File System",
+    "estimatedHours": 6,
+    "description": "Working with files and directories"
+    },
+    {
+    "name": "HTTP Module",
+    "estimatedHours": 7,
+    "description": "Creating HTTP servers"
+    },
+    {
+    "name": "Express.js",
+    "estimatedHours": 10,
+    "description": "Building web applications with Express"
+    },
+    {
+    "name": "RESTful APIs",
+    "estimatedHours": 8,
+    "description": "Creating RESTful APIs"
+    },
+    {
+    "name": "Authentication",
+    "estimatedHours": 8,
+    "description": "Implementing authentication"
+    },
+    {
+    "name": "Database Integration",
+    "estimatedHours": 10,
+    "description": "Connecting to databases"
+    }
+]
+},
+{
+"name": "MongoDB",
+"category": "database",
+"difficulty": 5,
+"estimatedHours": 40,
+"description": "NoSQL database",
+"topics": [
+    {
+    "name": "MongoDB Basics",
+    "estimatedHours": 6,
+    "description": "Understanding MongoDB concepts"
+    },
+    {
+    "name": "CRUD Operations",
+    "estimatedHours": 8,
+    "description": "Creating, reading, updating, and deleting documents"
+    },
+    {
+    "name": "Queries",
+    "estimatedHours": 7,
+    "description": "Writing MongoDB queries"
+    },
+    {
+    "name": "Indexing",
+    "estimatedHours": 5,
+    "description": "Creating and using indexes"
+    },
+    {
+    "name": "Aggregation",
+    "estimatedHours": 7,
+    "description": "Using the aggregation framework"
+    },
+    {
+    "name": "Mongoose",
+    "estimatedHours": 7,
+    "description": "Using Mongoose ODM with Node.js"
+    }
+]
+},
+{
+"name": "Python",
+"category": "backend",
+"difficulty": 4,
+"estimatedHours": 80,
+"description": "General-purpose programming language",
+"topics": [
+    {
+    "name": "Python Basics",
+    "estimatedHours": 10,
+    "description": "Variables, data types, operators"
+    },
+    {
+    "name": "Control Flow",
+    "estimatedHours": 8,
+    "description": "Conditionals, loops, and error handling"
+    },
+    {
+    "name": "Functions",
+    "estimatedHours": 8,
+    "description": "Defining and using functions"
+    },
+    {
+    "name": "Data Structures",
+    "estimatedHours": 12,
+    "description": "Lists, tuples, dictionaries, and sets"
+    },
+    {
+    "name": "File I/O",
+    "estimatedHours": 6,
+    "description": "Reading and writing files"
+    },
+    {
+    "name": "Object-Oriented Programming",
+    "estimatedHours": 12,
+    "description": "Classes, objects, inheritance"
+    },
+    {
+    "name": "Modules and Packages",
+    "estimatedHours": 8,
+    "description": "Using and creating modules and packages"
+    },
+    {
+    "name": "Virtual Environments",
+    "estimatedHours": 4,
+    "description": "Setting up and using virtual environments"
+    },
+    {
+    "name": "Testing",
+    "estimatedHours": 6,
+    "description": "Writing tests for Python code"
+    },
+    {
+    "name": "Web Development with Flask",
+    "estimatedHours": 10,
+    "description": "Building web applications with Flask"
+    }
+]
+},
+{
+"name": "Machine Learning",
+"category": "ml",
+"difficulty": 9,
+"estimatedHours": 120,
+"description": "Developing algorithms that learn from data",
+"topics": [
+    {
+    "name": "ML Fundamentals",
+    "estimatedHours": 15,
+    "description": "Basic concepts of machine learning"
+    },
+    {
+    "name": "Data Preprocessing",
+    "estimatedHours": 12,
+    "description": "Preparing data for machine learning"
+    },
+    {
+    "name": "Supervised Learning",
+    "estimatedHours": 20,
+    "description": "Regression and classification algorithms"
+    },
+    {
+    "name": "Unsupervised Learning",
+    "estimatedHours": 15,
+    "description": "Clustering and dimensionality reduction"
+    },
+    {
+    "name": "Neural Networks",
+    "estimatedHours": 20,
+    "description": "Understanding and implementing neural networks"
+    },
+    {
+    "name": "Deep Learning",
+    "estimatedHours": 25,
+    "description": "Convolutional and recurrent neural networks"
+    },
+    {
+    "name": "Model Evaluation",
+    "estimatedHours": 10,
+    "description": "Evaluating and improving ML models"
+    },
+    {
+    "name": "Feature Engineering",
+    "estimatedHours": 10,
+    "description": "Creating and selecting features"
+    }
+]
+}
+]

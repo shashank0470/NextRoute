@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS/editor specific
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python artifacts (for ML)
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pkl
+*.h5
+*.db
+*.sqlite
+*.ipynb_checkpoints
+dist/
+build/
+
+# ML temporary output (optional folders if created)
+server/ml/models/
+server/ml/__outputs__/
+server/ml/temp/
+
+# Raw or user training data (optional if sensitive or too large)
+server/data/*.json
+!server/data/tech_data.json  # Allow tech_data if needed in version control
+
+# Test/cache/output
+.pytest_cache/
+htmlcov/
+coverage/
+.coverage
+
+# Mac/Windows-specific system files
+ehthumbs.db
+desktop.ini
