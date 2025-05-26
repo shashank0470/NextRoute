@@ -1,0 +1,53 @@
+[
+{
+"id": "user_1",
+"technology": "JavaScript",
+"skillLevel": "Beginner",
+"schedulePreference": "1-2 hours/day",
+"preferredContent": ["js_video_1", "js_playlist_1", "channel_1"],
+"interactions": [
+    {
+    "content_id": "js_video_1",
+    "interaction_type": "watch",
+    "rating": 5,
+    "watch_time": 2400,
+    "timestamp": "2024-05-20T14:00:00Z"
+    }
+],
+"created_at": "2024-05-20T13:00:00Z"
+},
+{
+"id": "user_2",
+"technology": "Python",
+"skillLevel": "Intermediate",
+"schedulePreference": "3-4 hours/day",
+"preferredContent": ["python_video_1", "python_playlist_1", "ml_video_1"],
+"interactions": [
+    {
+    "content_id": "python_video_1",
+    "interaction_type": "watch",
+    "rating": 4,
+    "watch_time": 3200,
+    "timestamp": "2024-05-20T15:00:00Z"
+    }
+],
+"created_at": "2024-05-20T14:00:00Z"
+},
+{
+"id": "user_3",
+"technology": "React",
+"skillLevel": "Advanced",
+"schedulePreference": "5+ hours/day",
+"preferredContent": ["react_video_1", "react_playlist_1", "channel_3"],
+"interactions": [
+    {
+    "content_id": "react_video_1",
+    "interaction_type": "watch",
+    "rating": 5,
+    "watch_time": 4000,
+    "timestamp": "2024-05-20T16:00:00Z"
+    }
+],
+"created_at": "2024-05-20T15:00:00Z"
+}
+]

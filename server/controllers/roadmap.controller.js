@@ -23,7 +23,7 @@ let totalHours = techDetails.reduce((sum, tech) => sum + tech.estimatedHours, 0)
 try {
     const options = {
     mode: 'json',
-    pythonPath: 'python3',
+    pythonPath: 'python',
     scriptPath: path.join(__dirname, '../ml'),
     args: [
         JSON.stringify(techDetails.map(t => ({

@@ -1,0 +1,72 @@
+[
+{
+"id": "js_video_1",
+"title": "Complete JavaScript Tutorial for Beginners",
+"description": "Learn JavaScript from scratch with this comprehensive tutorial covering variables, functions, objects, and more",
+"channel": "CodeAcademy Pro",
+"url": "https://youtube.com/watch?v=js_tutorial_1",
+"thumbnail": "/api/placeholder/320/180",
+"duration": 2700,
+"views": 1200000,
+"tags": ["javascript", "programming", "tutorial", "beginner"],
+"difficulty": "Beginner",
+"content_type": "video",
+"processed_at": "2024-05-20T10:00:00Z"
+},
+{
+"id": "python_video_1",
+"title": "Python Programming Fundamentals",
+"description": "Master Python basics including data types, loops, functions, and object-oriented programming",
+"channel": "PythonGuru",
+"url": "https://youtube.com/watch?v=python_tutorial_1",
+"thumbnail": "/api/placeholder/320/180",
+"duration": 3600,
+"views": 850000,
+"tags": ["python", "programming", "tutorial", "beginner"],
+"difficulty": "Beginner",
+"content_type": "video",
+"processed_at": "2024-05-20T10:30:00Z"
+},
+{
+"id": "react_video_1",
+"title": "React Hooks Deep Dive",
+"description": "Advanced React concepts including useState, useEffect, custom hooks, and performance optimization",
+"channel": "ReactMaster",
+"url": "https://youtube.com/watch?v=react_hooks_1",
+"thumbnail": "/api/placeholder/320/180",
+"duration": 4200,
+"views": 950000,
+"tags": ["react", "javascript", "hooks", "advanced"],
+"difficulty": "Advanced",
+"content_type": "video",
+"processed_at": "2024-05-20T11:00:00Z"
+},
+{
+"id": "nodejs_video_1",
+"title": "Node.js API Development",
+"description": "Build RESTful APIs with Node.js, Express, and MongoDB",
+"channel": "BackendDev",
+"url": "https://youtube.com/watch?v=nodejs_api_1",
+"thumbnail": "/api/placeholder/320/180",
+"duration": 5400,
+"views": 720000,
+"tags": ["nodejs", "api", "express", "mongodb", "intermediate"],
+"difficulty": "Intermediate",
+"content_type": "video",
+"processed_at": "2024-05-20T11:30:00Z"
+},
+{
+"id": "ml_video_1",
+"title": "Machine Learning with Python",
+"description": "Introduction to machine learning algorithms, scikit-learn, and data preprocessing",
+"channel": "DataScience Pro",
+"url": "https://youtube.com/watch?v=ml_python_1",
+"thumbnail": "/api/placeholder/320/180",
+"duration": 6000,
+"views": 1100000,
+"tags": ["machine learning", "python", "data science", "beginner"],
+"difficulty": "Beginner",
+"content_type": "video",
+"processed_at": "2024-05-20T12:00:00Z"
+}
+]

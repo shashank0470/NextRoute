@@ -15,7 +15,6 @@ const TechService = {
 getAllTechnologies: () => {
 return apiClient.get('/technologies');
 },
-
 getTechnology: (id) => {
 return apiClient.get(`/technologies/${id}`);
 }
@@ -26,10 +25,16 @@ const RoadmapService = {
 generateRoadmap: (data) => {
 return apiClient.post('/roadmaps/generate', data);
 },
-
 getRoadmap: (id) => {
 return apiClient.get(`/roadmaps/${id}`);
 }
 };
 
-export { TechService, RoadmapService };
+// NEW: Recommendation services
+const RecommendationService = {
+getRecommendations: (preferences) => {
+return apiClient.post('/recommendations/generate', preferences);
+}
+};
+
+export { TechService, RoadmapService, RecommendationService };

@@ -1,0 +1,47 @@
+[
+{
+"id": "js_playlist_1",
+"title": "Complete JavaScript Course - Zero to Hero",
+"description": "Full JavaScript course covering everything from basics to advanced topics",
+"channel": "WebDev Academy",
+"url": "https://youtube.com/playlist?list=js_complete_course",
+"thumbnail": "/api/placeholder/320/180",
+"duration": 36000,
+"views": 2500000,
+"tags": ["javascript", "course", "complete", "beginner", "intermediate"],
+"difficulty": "Beginner",
+"content_type": "playlist",
+"video_count": 50,
+"processed_at": "2024-05-20T09:00:00Z"
+},
+{
+"id": "python_playlist_1",
+"title": "Python for Data Science Bootcamp",
+"description": "Complete Python data science course with pandas, numpy, matplotlib, and scikit-learn",
+"channel": "DataScience Hub",
+"url": "https://youtube.com/playlist?list=python_datascience",
+"thumbnail": "/api/placeholder/320/180",
+"duration": 28800,
+"views": 1800000,
+"tags": ["python", "data science", "pandas", "numpy", "intermediate"],
+"difficulty": "Intermediate",
+"content_type": "playlist",
+"video_count": 40,
+"processed_at": "2024-05-20T09:30:00Z"
+},
+{
+"id": "react_playlist_1",
+"title": "Modern React Development",
+"description": "Learn React with latest features including hooks, context, and Next.js",
+"channel": "FrontendPro",
+"url": "https://youtube.com/playlist?list=modern_react",
+"thumbnail": "/api/placeholder/320/180",
+"duration": 32400,
+"views": 1650000,
+"tags": ["react", "nextjs", "hooks", "modern", "intermediate"],
+"difficulty": "Intermediate",
+"content_type": "playlist",
+"video_count": 35,
+"processed_at": "2024-05-20T10:00:00Z"
+}
+]

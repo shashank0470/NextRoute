@@ -1,0 +1,27 @@
+{
+"feature_vectors": {
+"js_video_1": [1, 0, 0, 0, 0, 1, 0, 0, 0.8, 0.2, 0.1],
+"python_video_1": [0, 1, 0, 0, 0, 1, 0, 0, 0.9, 0.3, 0.2],
+"react_video_1": [1, 0, 1, 0, 0, 0, 0, 1, 0.7, 0.8, 0.9],
+"nodejs_video_1": [1, 0, 0, 1, 0, 0, 1, 0, 0.6, 0.7, 0.5],
+"ml_video_1": [0, 1, 0, 0, 1, 1, 0, 0, 0.8, 0.4, 0.6]
+},
+"feature_names": [
+"is_javascript",
+"is_python", 
+"is_react",
+"is_nodejs",
+"is_ml",
+"is_beginner",
+"is_intermediate",
+"is_advanced",
+"quality_score",
+"engagement_score",
+"difficulty_score"
+],
+"metadata": {
+"last_updated": "2024-05-20T12:00:00Z",
+"total_items": 5,
+"version": "1.0"
+}
+}
