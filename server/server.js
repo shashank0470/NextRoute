@@ -66,6 +66,12 @@ app.use('/api/technologies', techRoutes);
 app.use('/api/roadmaps', roadmapRoutes);
 app.use('/api/recommendations', recommendationRoutes); // NEW
 
+// Add after your routes are defined:
+app.get('/', (req, res) => {
+    res.send('⚡ Nextroute backend is running!');
+});
+
+
 // Error handling middleware
 app.use((err, req, res, next) => { 
 console.error(err.stack);
